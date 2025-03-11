@@ -1,0 +1,102 @@
+@charset "UTF-8";
+
+/*Controlar a propriedade padding com as especificações permiti você manipular tudo do site
+
+ex: padding-left ele mexe mo padding somente da parte do lado
+*/
+
+/*A medida mais util quando o assunto é responsividade é a vh viewport height pois ela se adapta ao tamanho da tela*/
+
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
+
+:root {
+    --corh1: black;
+
+    --font01: 'Passion One';
+    --font02: 'Sriracha';
+
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html body {
+   min-width: 100vh;
+   background-color: darkgray;
+}
+
+header {
+   text-align: center;
+   font-family: var(--font01);
+   color: white;
+   background-color: black;
+   height: 150px;
+  
+}
+
+header > h1 {
+    padding-top: 50px
+    ;
+    font-size: 10vh;
+}
+
+header > p {
+    padding-bottom: 50px;
+}
+
+section {
+   font-family: var(--font02);
+   font-size: 3.5vh;
+   padding-top: 10vh;
+   padding-bottom: 10vh;
+   line-height: 2em ;
+   padding-left: 30px;
+}
+
+section > p {
+   padding-bottom:2em ;
+}
+
+.normal {
+   background-color: white;
+   color: black;
+
+}
+
+.imagen {
+   background-color: darkgrey;
+   color: white;
+   box-shadow: inset 6px 6px 13px 0px black;
+   background-size: cover;
+}
+
+.imagen > p {
+
+ display: inline-block;
+ padding: 5px;
+   background-color: rgba(0, 0, 0, 0.151);
+   text-shadow: 1px 1px 0px black;
+}
+
+#primeira {
+background: url(pacote-d012/imagens/background001.jpg) right center no-repeat;
+background-size: cover;
+background-attachment:fixed ;
+}
+
+#segunda {
+background: black url(pacote-d012/imagens/background002.jpg) right center no-repeat;
+background-size: cover;
+background-attachment:fixed ;
+}
+ 
+ footer {
+    color: white;
+    background-color: black;
+    text-align: center;
+   
+ }
