@@ -4,7 +4,7 @@ Este projeto foi concebido como um exercício prático para aprofundar meus conh
 
 ## Conteúdo do Repositório
 
-Neste repositório, você encontrará todos os arquivos necessários para construir uma página web que utiliza o efeito parallax para apresentar citações de grandes autores da literatura. Este projeto não apenas busca desenvolver minhas habilidades técnicas em desenvolvimento web, mas também explora a junção entre design visual e conteúdo literário.
+Neste repositório, você encontrará todos os arquivos necessários para construir uma página web que utiliza o efeito parallax para apresentar citações de grande obras e autores. Este projeto não apenas busca desenvolver minhas habilidades técnicas em desenvolvimento web, mas também explora a junção entre design visual e conteúdo literário.
 
 ## Tecnologias Utilizadas
 
