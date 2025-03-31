@@ -83,13 +83,14 @@ section > p {
 }
 
 #primeira {
-background: url(pacote-d012/imagens/background001.jpg) right center no-repeat;
+   height: 250px;
+background: url(pacote-d012/imagens/Cabañadehopper.webp) center center no-repeat;
 background-size: cover;
 background-attachment:fixed ;
 }
 
 #segunda {
-background: black url(pacote-d012/imagens/background002.jpg) right center no-repeat;
+background: black url(pacote-d012/imagens/stranger-things-2560x1080-18568.jpg) right center no-repeat;
 background-size: cover;
 background-attachment:fixed ;
 }
