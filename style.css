@@ -83,16 +83,18 @@ section > p {
 }
 
 #primeira {
-   height: 250px;
+  
 background: url(pacote-d012/imagens/Cabañadehopper.webp) center center no-repeat;
 background-size: cover;
 background-attachment:fixed ;
+ height: 250px;
 }
 
 #segunda {
-background: black url(pacote-d012/imagens/stranger-things-2560x1080-18568.jpg) right center no-repeat;
+background: black url(pacote-d012/imagens/Joyce_communicates.JPG.webp) right center no-repeat;
 background-size: cover;
 background-attachment:fixed ;
+height: 250px;
 }
  
  footer {
