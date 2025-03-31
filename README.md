@@ -22,7 +22,7 @@ Neste repositório, você encontrará todos os arquivos necessários para constr
 
 ## Link para a página
 
-* [Projeto parallax](https://joaomiranda01.github.io/projeto-cordel/)
+* [Projeto parallax](https://joaomiranda01.github.io/projeto-parallax/)
 
 ## Conecte-se Comigo
 
